@@ -1,4 +1,4 @@
-let i = 5
+let i = 6
 if(i % 2 === 0){
     console.log('The number is even');
 }
